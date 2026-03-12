@@ -3,7 +3,7 @@
 
 const msalConfig = {
   auth: {
-    clientId: '006ad752-04b5-4292-9a9e-8d08668edf31',
+    clientId: '6f636cfa-46da-4fe2-8f67-e6dddc56c33f',
     redirectUri: 'https://mkn1411.github.io/UTCM-ControlPanel/'
   }
 };
